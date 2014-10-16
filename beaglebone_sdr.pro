@@ -1,7 +1,5 @@
-update=2014-10-15 9:57:51 PM
-last_client=eeschema
-[general]
-version=1
+update=2014-10-15 11:12:41 PM
+last_client=kicad
 [eeschema]
 version=1
 LibDir=C:/Users/eresonance/Documents/Kicad/libraries/beaglebone;C:/Users/eresonance/Documents/Kicad/libraries/eagle
@@ -53,3 +51,5 @@ LibName39=v-reg-fairchild
 LibName40=v-reg-lowdrop
 LibName41=C:/Users/eresonance/Documents/Kicad/libraries/si570
 LibName42=blackrock_components
+[general]
+version=1
