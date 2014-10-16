@@ -77,6 +77,8 @@ S 1800 3450 1550 1250
 U 53D568ED
 F0 "filters" 50
 F1 "filters.sch" 50
+F2 "ft_sel_0" I L 1800 3650 60 
+F3 "ft_sel_1" I L 1800 3800 60 
 $EndSheet
 $Sheet
 S 6050 3800 1600 1350
