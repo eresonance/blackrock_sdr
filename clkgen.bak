@@ -8,7 +8,6 @@ LIBS:regul
 LIBS:74xx
 LIBS:cmos4000
 LIBS:adc-dac
-LIBS:memory
 LIBS:special
 LIBS:analog_switches
 LIBS:motorola
@@ -32,13 +31,7 @@ LIBS:switch-misc
 LIBS:switch-tact
 LIBS:tsop
 LIBS:varistor
-LIBS:vishay
-LIBS:vishay_tsal4400_bpw85c
-LIBS:vishay-1
 LIBS:v-reg
-LIBS:v-reg-2
-LIBS:v-reg-fairchild
-LIBS:v-reg-lowdrop
 LIBS:si570
 LIBS:blackrock_components
 LIBS:beaglebone_sdr-cache
@@ -48,7 +41,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 5
 Title ""
-Date "16 oct 2014"
+Date "19 oct 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -315,14 +308,8 @@ Connection ~ 5650 1800
 Wire Wire Line
 	6100 1800 6100 1900
 Connection ~ 6100 1800
-Text Label 5700 1700 0    60   ~ 0
-synclk
-Text Label 5750 1750 0    60   ~ 0
-synclk
-Text Label 5800 1800 0    60   ~ 0
+Text Label 5450 1800 0    60   ~ 0
 SYNCLK
-Text Label 5550 1750 0    79   ~ 0
-synclk
 Connection ~ 6150 1800
 Wire Wire Line
 	5450 1800 8450 1800
@@ -475,6 +462,4 @@ Wire Wire Line
 Wire Wire Line
 	8250 2750 10350 2750
 Connection ~ 8250 1600
-Text Label 7250 2050 2    79   ~ 0
-synclk
 $EndSCHEMATC

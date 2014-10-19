@@ -8,7 +8,6 @@ LIBS:regul
 LIBS:74xx
 LIBS:cmos4000
 LIBS:adc-dac
-LIBS:memory
 LIBS:special
 LIBS:analog_switches
 LIBS:motorola
@@ -32,13 +31,7 @@ LIBS:switch-misc
 LIBS:switch-tact
 LIBS:tsop
 LIBS:varistor
-LIBS:vishay
-LIBS:vishay_tsal4400_bpw85c
-LIBS:vishay-1
 LIBS:v-reg
-LIBS:v-reg-2
-LIBS:v-reg-fairchild
-LIBS:v-reg-lowdrop
 LIBS:si570
 LIBS:blackrock_components
 LIBS:beaglebone_sdr-cache
@@ -48,7 +41,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 5
 Title ""
-Date "16 oct 2014"
+Date "19 oct 2014"
 Rev ""
 Comp ""
 Comment1 ""
