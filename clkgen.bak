@@ -8,32 +8,27 @@ LIBS:regul
 LIBS:74xx
 LIBS:cmos4000
 LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
 LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
 LIBS:analog_switches
 LIBS:motorola
 LIBS:texas
 LIBS:intel
+LIBS:audio
 LIBS:interface
+LIBS:digital-audio
+LIBS:philips
 LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
 LIBS:contrib
-LIBS:beagleboneblack
-LIBS:74ah
-LIBS:74hc(t)4046
-LIBS:74xx-eu
-LIBS:74xx-little-us
-LIBS:78xx_with_heatsink
-LIBS:751xx
-LIBS:supply
-LIBS:supply0
-LIBS:supply1
-LIBS:switch-copal
-LIBS:switch-misc
-LIBS:switch-tact
-LIBS:tsop
-LIBS:varistor
-LIBS:v-reg
-LIBS:si570
-LIBS:blackrock_components
+LIBS:valves
 LIBS:beaglebone_sdr-cache
 EELAYER 27 0
 EELAYER END
@@ -41,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 5
 Title ""
-Date "19 oct 2014"
+Date "12 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
